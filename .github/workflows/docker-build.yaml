@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ tokimasa85 }}/python-helloworld:latest
+          tags: tokimasa85/python-helloworld:latest
